@@ -20,4 +20,4 @@ export type SortFilterItem = {
     cart: 'cart'
   };
 
-  export const CART_COOKIE = 'cartId';
+  export const DEFAULT_OPTION = 'Default Title';
